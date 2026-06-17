@@ -1,0 +1,2 @@
+# GenAI
+GenAI course data
